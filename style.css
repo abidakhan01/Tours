@@ -4,14 +4,15 @@ body {
 }
 .Tours {
   display: flex;
-
   justify-content: center;
   font-size: 2.441rem;
-  font-family: 1rengFont);
   font-weight: 400;
   color: rgb(68, 64, 64);
 }
 
+hr {
+  border: 2px solid #10b981;
+}
 .img {
   height: 13rem;
   width: 100%;
